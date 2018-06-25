@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftsaarni%2Fkeycloak.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftsaarni%2Fkeycloak?ref=badge_shield)
+
 Keycloak
 ========
 
@@ -81,3 +83,7 @@ License
 -------
 
 * [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftsaarni%2Fkeycloak.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftsaarni%2Fkeycloak?ref=badge_large)
